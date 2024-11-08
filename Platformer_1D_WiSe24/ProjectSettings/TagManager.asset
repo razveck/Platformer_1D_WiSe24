@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Checkpoint
   - Killbox
+  - Coin
+  - Interactable
+  - End
   layers:
   - Default
   - TransparentFX
